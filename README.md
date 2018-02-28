@@ -16,3 +16,4 @@ In this group project I was responsible for front and back end development, and 
   * HTML
   * Bootstrap
   * CSS
+  * Mailgun API
