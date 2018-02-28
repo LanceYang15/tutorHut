@@ -1,0 +1,120 @@
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\obj\Debug\tutorHut.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.Tests.dll.config
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.Tests.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.Tests.pdb
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\RestSharp.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Owin.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.pdb
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\obj\Debug\tutorHut.Tests.dll
+C:\Users\Lance\Desktop\devCodeCamp\Assignment10 Group Capstone\tutorHut\tutorHut\tutorHut.Tests\obj\Debug\tutorHut.Tests.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.Tests.dll.config
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.Tests.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.Tests.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\RestSharp.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Owin.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\tutorHut.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\obj\Debug\tutorHut.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\obj\Debug\tutorHut.Tests.dll
+C:\Users\Lance\Documents\Software Development\1 Projects\004 Tutor Hut\Project\tutorHut\tutorHut.Tests\obj\Debug\tutorHut.Tests.pdb

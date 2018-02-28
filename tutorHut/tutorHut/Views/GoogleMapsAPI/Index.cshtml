@@ -1,0 +1,177 @@
+﻿
+@model tutorHut.Models.GoogleMapsPlaceAPI
+@using tutorHut.Classes;
+@{
+    ViewBag.Title = "Meetups";
+}
+
+<style>
+    #map {
+        height: 400px;
+        width: 100%;
+    }
+</style>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
+<h2 id="text-center">Enter Location: </h2>
+<form id="location-form">
+    <input type="text" id="location-input" class="form-control" />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+@*for the geocode*@
+@*<div id="formatted-address"></div>
+    <div id="address-components"></div>
+    <div id="geometry"></div>*@
+
+@*for the map*@
+<div id="map"></div>
+
+
+<div class="container">
+
+    <script>
+
+        // variables
+        var map;
+        var marker;
+        var infowindow;
+        @{
+            Hidden hide = new Hidden();
+        }
+
+        // get location form
+        var locationForm = document.getElementById('location-form');
+
+
+        // listen for submit button
+        locationForm.addEventListener('submit', geocode);
+
+
+        function initMap(latitude, longitude) {
+
+            var options = {
+                zoom: 14,
+                center: { lat: latitude, lng: longitude }// default set location
+            };
+
+            var request = {
+                location: { lat: latitude, lng: longitude },
+                radius: 5000,
+                types: ['school']
+            };
+
+
+            // create the map
+            map = new google.maps.Map(document.getElementById('map'), options);
+
+            //create the info window
+            infowindow = new google.maps.InfoWindow();
+
+            // obtain nearby places
+            var service = new google.maps.places.PlacesService(map);
+            service.nearbySearch(request, callback);
+
+
+            // marker based on location
+            marker = new google.maps.Marker({
+                position: { lat: latitude, lng: longitude },
+                map: map,
+                icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+            });
+
+        }
+
+
+        function callback(results, status) {
+            if (status == google.maps.places.PlacesServiceStatus.OK) {
+                for (var i = 0; i < results.length; i++) {
+                    createMarker(results[i]);
+                }
+            }
+        }
+
+
+        function createMarker(place) {
+            //var placeLoc = place.geometry.location;
+            var markerPlaceLoc = new google.maps.Marker({
+                position: place.geometry.location,
+                map: map
+            });
+
+            google.maps.event.addListener(markerPlaceLoc, 'click', function () {
+                infowindow.setContent(place.name);
+                infowindow.open(map, this);
+            });
+        }
+
+
+
+        // for the geocode
+        function geocode(e) {
+            // prevent actual submit
+            e.preventDefault();
+
+
+            var location = document.getElementById('location-input').value;
+
+            axios.get('https://maps.googleapis.com/maps/api/geocode/json',
+                {
+                    params: {
+                        address: location,
+                        key: '@hide.API_Key_One'
+                        }
+                })
+                .then(function (response) {
+                    // log full response
+                    console.log(response);
+
+
+                    // formatted address
+                    var formattedAddress = response.data.results[0].formatted_address;
+                    var formattedAddressOutput = `<ul class="list-group"><li class="list-group-item">${formattedAddress}</li></ul>`;
+
+
+                    // address components
+                    var addressComponents = response.data.results[0].address_components;
+                    var addressComponentsOutput = `<ul class="list-group">`;
+                    for (var i = 0; i < addressComponents.length; i++) {
+                        addressComponentsOutput += `<li class="list-group-item"><strong>${addressComponents[i].types[0]}</strong>: ${addressComponents[i].long_name}</li>`;
+                    }
+                    addressComponentsOutput += `</ul>`;
+
+
+                    // Geometry
+                    var latt = response.data.results[0].geometry.location.lat;
+                    var lngg = response.data.results[0].geometry.location.lng;
+
+
+                    // call map maker function
+                    initMap(latt, lngg);
+
+
+                    var geometryOutput = `<ul class="list-group"><li class="list-group-item"><strong>Latitude</strong>:${latt}</li><li class="list-group-item"><strong>Longitude</strong>:${lngg}</li></ul>`;
+
+
+                    // Output to app
+                    document.getElementById('formatted-address').innerHTML = formattedAddressOutput;
+                    document.getElementById('address-components').innerHTML = addressComponentsOutput;
+                    document.getElementById('geometry').innerHTML = geometryOutput;
+                })
+                .catch(function (error) {
+                    console.log(error)
+                });
+        }
+    </script>
+    
+
+        <script async defer
+                src=@hide.API_Key_One_Source>
+        </script>
+    
+
+
+</div>

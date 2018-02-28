@@ -1,0 +1,43 @@
+﻿@model tutorHut.Models.IndexViewModel
+@{
+    ViewBag.Title = "Hut Manager";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>My account</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Change password", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Create", "SetPassword")
+            }
+            ]
+        </dd>
+        <dt>My hut:</dt>
+        <dd>
+            [ @Html.ActionLink("Create/Edit profile", "Create", "Profile", new { id = "" }, null) ]
+        </dd>
+        <dt>The village:</dt>
+        <dd>
+            [ @Html.ActionLink("Search for tutors", "Index", "Profile", new { id = "" }, null) ]
+        </dd>
+        <dt>My requests:</dt>
+        <dd>
+            [ @Html.ActionLink("Accept/Decline requests", "Index", "Request", new { id = "" }, null) ]
+        </dd>
+        <dt>My meetups:</dt>
+        <dd>
+            [ @Html.ActionLink("View meetups", "Index", "Meetups", new { id = "" }, null) ]
+        </dd>
+    </dl>
+</div>

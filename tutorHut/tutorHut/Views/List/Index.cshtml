@@ -1,0 +1,109 @@
+﻿@model IEnumerable<tutorHut.Models.Profile>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+
+<p>
+
+    @*add this code*@
+
+    
+        @using (Html.BeginForm())
+        {
+        <p>
+            Subject: @Html.TextBox("SearchString") <br />
+            <input type="submit" value="Filter" />
+        </p>
+        }
+    
+
+</p>
+
+
+
+<table class="table">
+    <tr>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Address.StreetAddress)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Address.ZipCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApplicationUser.Email)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Request.Status)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Subject.SubjectName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProfileFirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProfileLastName)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.ProfilePhoneNumber)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.HourlyRate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MyDescription)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Address.StreetAddress)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Address.ZipCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApplicationUser.Email)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Request.Status)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Subject.SubjectName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProfileFirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProfileLastName)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.ProfilePhoneNumber)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.HourlyRate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MyDescription)
+        </td>
+        <td>
+            @*@Html.ActionLink("Edit", "Edit", new { id=item.ProfileId }) |*@
+            @Html.ActionLink("Read More", "Details", new { id=item.ProfileId }) 
+            @*@Html.ActionLink("Delete", "Delete", new { id=item.ProfileId })*@
+        </td>
+        @*<td>
+            @Html.ActionLink("Details", "Details", new { id=item.ProfileId })
+        </td>*@
+    </tr>
+}
+
+</table>
